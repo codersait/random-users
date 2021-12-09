@@ -1,4 +1,14 @@
 .App {
+    /* width: 80vh; */
+    max-width: 1500px;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+
+.App h1 {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 .App-header {
 }
